@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 #### [For more details](https://tesso57.github.io/home/#/about)
 
