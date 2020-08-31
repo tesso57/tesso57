@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### [For more details](https://tesso57.github.io/home/#/)
+#### [For more details](https://tesso57.github.io/home/#/about)
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
